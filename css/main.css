@@ -328,7 +328,8 @@ a:hover{
 }
 
 h1{
-  color: #fff;
+  color: rgb(255, 37, 146);
+  background-color: #cdd010;
   font-family: 'Rubik Glitch', cursive;
   font-size: 5em;
   font-weight: 400;
@@ -336,4 +337,3 @@ h1{
   margin-top: 5em;
   margin-left: 2em;
 }
-
